@@ -1,4 +1,4 @@
-<?php 
+﻿   <?php 
     $path = 'index';
     $filename = 'index';
 
